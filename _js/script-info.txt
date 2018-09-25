@@ -1,0 +1,15 @@
+﻿     __________________________________________________________________
+    |
+    |   Quelltexte zum Buch "Workshop HTML5 & CSS3"
+    |   Verlag:     dpunkt.verlag GmbH
+    |   Copyright:  2012 Stephan Heller <heller@h5c3.de>
+    |   Lizenz:     GNU General Public License
+    |   Verwendung der Quelltexte ausdrücklich gestattet und gewünscht!
+    |   Weitere Quelltexte finden Sie unter http://www.h5c3.de
+    |__________________________________________________________________
+    |   
+    |   
+    |   Dieser Ordner ist für JavaScript-Dateien vorgesehen.
+    |       
+    |__________________________________________________________________
+

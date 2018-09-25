@@ -1,0 +1,28 @@
+﻿     __________________________________________________________________
+    |
+    |   Quelltexte zum Buch "Workshop HTML5 & CSS3"
+    |   Verlag:     dpunkt.verlag GmbH
+    |   Copyright:  2012 Stephan Heller <heller@h5c3.de>
+    |   Lizenz:     GNU General Public License
+    |   Verwendung der Quelltexte ausdrücklich gestattet und gewünscht!
+    |   Weitere Quelltexte finden Sie unter http://www.h5c3.de
+    |__________________________________________________________________
+    |   
+    |   
+    |   Audio- und Video-Dateien finden Sie unter 
+    |   
+    |   http://h5c3.de/listing-11-0
+    |   
+    |   Aufgrund der Dateigröße der Medien-Dateien sind diese nicht 
+    |   in allen Download-Paket enthalten. Bitte kopieren Sie die 
+    |   Audio- und Video-Dateien in diesem Ordner "/media". 
+    |   Damit liegen diese für die Demoquelltexte am richtigen Ort.
+    |   
+    |   
+    |   Den vollständigen Film "Route 66 - ein Amerikanischer (alb)Traum" 
+    |   und den Soundtrack "Route 66 - Remix und Footage" finden Sie unter 
+    |   http://route66.vebfilm.net/free/de/free-open-source-film-download-streaming
+    |   und kann von dort kostenlos herunter geladen werden.
+    |   
+    |__________________________________________________________________
+
